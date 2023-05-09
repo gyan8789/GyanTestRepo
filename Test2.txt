@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 46FF-E910
+
+ Directory of C:\Users\admin\Desktop\My Git Project
+
+09-05-2023  01:36 PM    <DIR>          .
+09-05-2023  01:36 PM    <DIR>          ..
+09-05-2023  01:19 PM               362 Test1.txt
+09-05-2023  01:36 PM                 0 Test2.txt
+               2 File(s)            362 bytes
+               2 Dir(s)  141,960,765,440 bytes free
